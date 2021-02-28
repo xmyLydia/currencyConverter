@@ -10,7 +10,8 @@ Description: a site backed by a RESTful API that convert currency with value.
 
 #API address
 https://currency-converter-mxie.herokuapp.com/convert?source={source}&target={target}&amount={amount}
-
+## Example
+https://currency-converter-mxie.herokuapp.com/convert?source=USD&target=CNY&amount=400
 
 
 #Conclusion
