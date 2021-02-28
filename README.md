@@ -8,9 +8,9 @@ Description: a site backed by a RESTful API that convert currency with value.
     * float monetary value of target currency
 ###The API leverages the exchange rates provided at https://exchangeratesapi.io
 
-#API:
-1. https://git-info-backend.herokuapp.com/users/${userName}
-   * This API is fetching github user's information according to user name
+#API address
+https://currency-converter-mxie.herokuapp.com/convert?source={source}&target={target}&amount={amount}
+
 
 
 #Conclusion
